@@ -117,4 +117,4 @@ valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./test_aren
 
 ## License
 
-This library is released under the BSD 3-Clause License. See the source files for complete license details.
+This library is released under the BSD 2-Clause License. See the source files for complete license details.
